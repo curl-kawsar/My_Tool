@@ -1,0 +1,46 @@
+--------------------
+Date: 23:9:2023
+Time: 0:0
+Phone number: +1234567890
+Message: Hello, this is an automated WhatsApp message!
+--------------------
+Date: 23:9:2023
+Time: 15:35
+Phone number: +880184756023
+Message: hiiii
+--------------------
+Date: 23:9:2023
+Time: 15:36
+Phone number: +8801303286831
+Message: Hii
+--------------------
+Date: 23:9:2023
+Time: 15:44
+Phone number: +8801303286831
+Message: hiii
+--------------------
+Date: 23:9:2023
+Time: 15:47
+Phone number: +8801303286831
+Message: Hiii
+--------------------
+Date: 23:9:2023
+Time: 15:49
+Phone number: +8801303286831
+Message: hiii
+--------------------
+Date: 23:9:2023
+Time: 16:13
+Phone number: +8801847556023
+Message: Hiiiii
+--------------------
+Date: 23:9:2023
+Time: 16:16
+Phone number: +8801847556023
+Message: Hiiii
+--------------------
+Date: 23:9:2023
+Time: 16:29
+Phone number: +8801847556023
+Message: Whatsapp Automation Check
+--------------------
